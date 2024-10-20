@@ -4,14 +4,27 @@
 💼 Sobre Mim
 Sou apaixonado por tecnologia e programação, com interesse em desenvolvimento de software e resolução de problemas. Estou em busca de oportunidades para aplicar meus conhecimentos e crescer na área.
 
-🛠️ Tecnologias que Uso
-Linguagens: 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />
+🛠️ Ferramentas e Tecnologias :
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
+          
+          
+            
+          
           
            
           
-Ferramentas: [Inclua ferramentas ou frameworks que você conhece, como Git, React, Node.js, etc.]
-Banco de Dados: [Ex: MySQL, MongoDB, etc.]
 🌟 Projetos em Destaque
 Nome do Projeto 1: Breve descrição do projeto.
 Nome do Projeto 2: Breve descrição do projeto.
