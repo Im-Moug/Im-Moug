@@ -29,6 +29,8 @@ Sou apaixonado por tecnologia e programação, com interesse em desenvolvimento 
 Nome do Projeto 1: Breve descrição do projeto.
 Nome do Projeto 2: Breve descrição do projeto.
 Nome do Projeto 3: Breve descrição do projeto.
+
+
 📫 Como me encontrar
 LinkedIn: Seu LinkedIn
 Email: [Seu Email]
