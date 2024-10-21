@@ -9,7 +9,7 @@
 
 ## Hello, Devs!!
 
-Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Sou um desenvolvedor apaixonado por tecnologia, inovação e resolver problemas através de código. Minha jornada na programação é guiada pela curiosidade e pela busca por criar soluções eficientes e impactantes. Adoro aprender novas tecnologias, colaborar em projetos open-source e compartilhar conhecimento com a comunidade.
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -22,12 +22,7 @@ Tenho 31 anos, sou de Minas Gerais mas moro perto de Curitiba/PR e sou apaixonad
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" title = "DOTNET"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" title = "KOTLIN"/></code>
 
 
 </br>
