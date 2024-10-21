@@ -24,15 +24,12 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e resolver problemas 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
-
+</br>
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do time de instrutores da <a href="https://www.alura.com.br/">Alura</a>;</p>
- <p align="left">💻 Sou formada em Sistemas de Informação e faço pós graduação em Arquitetura de Sistemas .NET com Azure na FIAP;</p>
- <p align="left">📚 Tenho trabalhado e estudado com C# e .NET, mas também gosto de me aventurar em Unity nas horas vagas;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">💻 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade da Cidade De São Paulo (UNICID);</p>
+ <p align="left">📚 Tenho trabalhado e estudado com  e JS, mas também gosto de me aventurar em Python nas horas vagas;</p>
 </div>
 
 
