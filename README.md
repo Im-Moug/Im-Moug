@@ -1,27 +1,4 @@
-
-<img align="right" width="150px" style="margin-top:-20px" src="https://i.ibb.co/C5rtHLd/jeni01.png">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<div dsplay="inline-block">
-
- 
- <h1 align="left">Jeniffer Bittencourt</h1>
- <a href="https://www.instagram.com/jeniblo_dev/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-
-</div>
+<h1 align="left">Maycon "Moug"</h1>
 
 
 
