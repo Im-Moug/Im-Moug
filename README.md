@@ -28,15 +28,16 @@ Sou um desenvolvedor apaixonado por tecnologia, inovação e resolver problemas 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade da Cidade De São Paulo (UNICID);</p>
- <p align="left">📚 Tenho trabalhado e estudado com  e JS, mas também gosto de me aventurar em Python nas horas vagas;</p>
+ <p align="left">💻 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade da Cidade De São Paulo (UNICID);</p>
+ <p align="left">📚 Tenho estudado JS, mas também gosto de me aventurar em Python nas horas vagas;</p>
+  <p align="left"> Atualmente estou focado em Construção de projetos, Leitura de livros sobre tecnologia e inovação e Desafios de programação.;</p>
 </div>
 
 
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/maycon.dsb) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
